@@ -1,0 +1,8 @@
+mode: default
+log_level: INFO
+camera:
+  enabled: true
+  device: 0
+model:
+  name: sample-model
+  threshold: 0.5
