@@ -1,5 +1,5 @@
 # Jetson AI Controller
-![](Badge.png) 
+
 A modular edge-AI controller for robotics and embedded systems. This project is designed to run inference, manage sensor pipelines, and expose a simple interface for telemetry and control on Jetson-class hardware.
 
 ## Features
